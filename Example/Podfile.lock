@@ -1,0 +1,16 @@
+PODS:
+  - QVEngineKit (0.1.0)
+
+DEPENDENCIES:
+  - QVEngineKit (from `../`)
+
+EXTERNAL SOURCES:
+  QVEngineKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QVEngineKit: b28e4dc1595d6a13f3af4e12e1a6fab2da2aca34
+
+PODFILE CHECKSUM: f6a7877b0d6e56b2088c5696e0fba0dcbfad6f0b
+
+COCOAPODS: 1.9.2
