@@ -7,7 +7,7 @@
 //
 
 #import "QVAppDelegate.h"
-
+//#import <XYCommonEngine/CXiaoYingInc.h>
 @implementation QVAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
